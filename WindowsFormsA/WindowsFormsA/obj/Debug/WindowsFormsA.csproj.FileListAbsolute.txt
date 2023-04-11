@@ -1,0 +1,11 @@
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\bin\Debug\WindowsFormsA.exe.config
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\bin\Debug\WindowsFormsA.exe
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\bin\Debug\WindowsFormsA.pdb
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\obj\Debug\WindowsFormsA.csproj.AssemblyReference.cache
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\obj\Debug\WindowsFormsA.csproj.SuggestedBindingRedirects.cache
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\obj\Debug\WindowsFormsA.Form1.resources
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\obj\Debug\WindowsFormsA.Properties.Resources.resources
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\obj\Debug\WindowsFormsA.csproj.GenerateResource.cache
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\obj\Debug\WindowsFormsA.csproj.CoreCompileInputs.cache
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\obj\Debug\WindowsFormsA.exe
+C:\Users\bio18\source\repos\WindowsFormsA\WindowsFormsA\obj\Debug\WindowsFormsA.pdb
